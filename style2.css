@@ -1,0 +1,104 @@
+body
+{
+font-family: verdana;
+font-size: 15px ; 
+line-height: 1.6 ;
+margin: 50px auto ;
+padding: 0 10px ;
+color: #454545 ;
+background-color: white ;
+	}
+
+mark
+{
+	background-color: black
+	color: white ;
+}
+
+#invertedmode
+{
+	text-align: right
+	color: white
+	;
+}
+
+h1, h2, h3, p 
+{
+	line-height: 1.2 ;
+}
+
+
+div
+	{
+		margin : 80px
+	}
+
+p span 
+{
+	color: red ;
+	text-decoration: underline;
+	}
+
+.motherfuckingwebsite
+{
+	color: maroon;
+}
+
+.mini
+{
+	font-size: xx-small ;
+	}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
